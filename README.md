@@ -20,7 +20,9 @@ Welcome to my GitHub profile! I am currently pursuing my master's degree in the 
 ## Competition Achievements
 
 - **SIGMOD Programming Contest 2024**
-  - Champion (May 2024)
+  - Champion (April 2024 - May 2024)
+  - Theme: Hybrid Vector Search
+  - [Code Repository](https://github.com/KevinZeng08/sigmod-2024-contest)
 
 
 <!--
