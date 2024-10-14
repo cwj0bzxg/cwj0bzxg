@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# [Your Name]'s GitHub Profile
-
 Welcome to my GitHub profile! I am currently pursuing my master's degree in the Database Group (DBGroup@sustech) at Southern University of Science and Technology, focusing on retrieval acceleration.
 
 ## Education
@@ -24,28 +22,6 @@ Welcome to my GitHub profile! I am currently pursuing my master's degree in the 
 - **SIGMOD Programming Contest 2024**
   - Champion (May 2024)
 
-## Skills and Tools
-
-- Programming Languages: Python, Java, SQL, etc.
-- Database Technologies: MySQL, PostgreSQL, MongoDB, etc.
-- Development Tools: Git, Docker, Kubernetes, etc.
-
-## Open Source Contributions
-
-- [List your open source projects or contributions](#)
-
-## Contact Information
-
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Personal Blog/Website: [Your Blog or Website Link]
-
----
-
-![Avatar](link-to-your-avatar-image)
-![Cover](link-to-your-cover-image)
-
-[Back to Top](#your-names-github-profile)
 
 <!--
 **cwj0bzxg/cwj0bzxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
