@@ -4,12 +4,8 @@ Welcome to my GitHub profile! I am currently pursuing my master's degree in the 
 
 ## Education
 
-- **Southern University of Science and Technology**
-  - Master's Student (2024 - Present)
-  - Research Area: Retrieval Acceleration
-
-- **Beijing University of Posts and Telecommunications**
-  - Bachelor's Degree (2020 - 2024)
+- **Southern University of Science and Technology**(MPhil Candidate, 2024 - Present)
+- **Beijing University of Posts and Telecommunications**(Bachelor)
 
 ## Work Experience
 
@@ -23,7 +19,11 @@ Welcome to my GitHub profile! I am currently pursuing my master's degree in the 
   - Champion (April 2024 - May 2024)
   - Theme: Hybrid Vector Search
   - [Code Repository](https://github.com/KevinZeng08/sigmod-2024-contest)
-
+- **2024 OceanBase Database Competition**[[Link](https://open.oceanbase.com/competition)]
+  - First prize (October 2024 - January 2025)
+  - Theme: Optimizing the ANN module of oceanbase
+ 
+Email: weijianchen666@gmail.com
 
 <!--
 **cwj0bzxg/cwj0bzxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
